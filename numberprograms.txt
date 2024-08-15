@@ -1,0 +1,3 @@
+#Pronic number
+#the product of conizative numbers is called pronic numbers is calld pronic number
+#write a program to to check given number is 
